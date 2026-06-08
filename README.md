@@ -42,12 +42,6 @@ Run the Python demo:
 python demo/quickstart.py
 ```
 
-Open the notebook demo:
-
-```bash
-jupyter notebook demo/stream_demo.ipynb
-```
-
 ## How to run the tests
 
 ```bash
